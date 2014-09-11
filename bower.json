@@ -5,13 +5,7 @@
     "r0flbear <mathias.hansen783@gmail.com>"
   ],
   "description": "boilerplate with everything you need to start a project",
-  "main": [
-	".gitignore",
-	"bower.json",
-	"gruntfile.js",
-	"package.json",
-	"README.md"
-  ],
+  "main": "",
   "keywords": [
     "boilerplate",
     "asp.net",
