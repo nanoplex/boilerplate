@@ -1,0 +1,26 @@
+{
+  "name": "bolierplate",
+  "version": "0.0.1",
+  "authors": [
+    "r0flbear <mathias.hansen783@gmail.com>"
+  ],
+  "description": "boilerplate with everything you need to start a project",
+  "main": "*",
+  "keywords": [
+    "boilerplate",
+    "asp.net",
+    "c#",
+    "grunt",
+    "website",
+    "starterkit"
+  ],
+  "license": "none",
+  "homepage": "github.com/r0flbear/boilerplate",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
