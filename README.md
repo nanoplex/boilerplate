@@ -3,7 +3,7 @@ boilerplate
 
 boilerplate with everything you need to start a new project
 
-#INSTALL
+#install
 
 to initialize the project you need node, npm, bower, git, ruby ans sass installed
 
@@ -17,12 +17,13 @@ ruby https://ruby-lang.org/
 
 sass http://sass-lang.com/
 
-#INIT
+#initialize
 
 to get the boilerplate just run this command;
+
 $ bower install r0flbear/boilerplate; npm install; 
 
-#GRUNT
+#grunt
 
 the boilerplate includes grunt, the grunt command are;
 
