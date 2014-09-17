@@ -7,7 +7,15 @@ boilerplate with everything you need to start a new project
 
 to initialize the project you need node, npm, bower, git, ruby ans sass installed
 
-node http://nodejs.com/
+node and npm http://nodejs.com/
+
+bower http://bower.io/
+
+git http://git-scm.com/
+
+ruby https://ruby-lang.org/
+
+sass http://sass-lang.com/
 
 #INIT
 
