@@ -22,6 +22,7 @@ sass http://sass-lang.com/
 to get the boilerplate just run this command;
 
 $ bower install r0flbear/boilerplate
+
 $ npm install
 
 #grunt
