@@ -154,7 +154,7 @@
             <p>Du kan prøve at gå tilbage til <a id="home" href="">forsiden</a></p>
         </div>
         <script>
-            var home = document.URL.replace(/\/[\w\d\./_-]*$/, "");
+            var home = document.URL.replace(/\/[\w\d\./_-]*[\w\d?=/\._-]*$/, "");
             document.getElementById('home').setAttribute('href', home);
         </script>
     </form>
